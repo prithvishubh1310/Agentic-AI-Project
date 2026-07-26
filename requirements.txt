@@ -1,6 +1,0 @@
-langchain 
-langchain-openai 
-faiss-cpu 
-rich 
-pypdf 
-python-dotenv
